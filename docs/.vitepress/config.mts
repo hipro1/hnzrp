@@ -67,11 +67,11 @@ export default defineConfig({
 
     footer: {
       copyright:
-        '&copy; Copyright 2024-present - Aqxorus & TempNinjaMan - All rights reserved.',
+        '&copy; Copyright 2024-present - TempNinjaMan & Aqxorus - All rights reserved.',
     },
     // https://simpleicons.org
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Aqxorus' },
+      { icon: 'github', link: 'https://github.com/hipro1' },
       { icon: 'discord', link: 'https://discord.com/users/693965900805570633' },
     ],
   },
