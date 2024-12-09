@@ -3,6 +3,6 @@
 >
 > ALWAYS COMMIT TO DEV BRANCH, NOT MAIN BRANCH
 
-Hosted by @aqxorus on Cloudflare Pages.
+Hosted by @whatisthisuniverse on Cloudflare Pages.
 
-Website/s: hnzrp.pages.dev
+Website/s: [hnzrp.pages.dev](https://hnzrp-any.pages.dev/punishments/staff.html)
