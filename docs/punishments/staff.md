@@ -30,6 +30,4 @@ VB= Verbal Warning.
 | Not using SPaG in tickets or while being on duty.    | <p style="color: #ef9f1d;">STAFF STRIKE</p>              |
 | Banning members without good reason.                 | <p style="color: #e83413;">SUSPENSION</p>                |
 | Nuke/Raid Threats.                                   | <p style="color: #8b0000;">TERMINATION + PERM BAN</p>    |
-| 3x Warnings            | <p style="color: #e8c53d;"> STAFF STRIKE</p>                   |
-| 3x Staff Strikes       | <p style="color: #e83413;"> SUSPENTION</p>                     |
-| 2x Suspentions         | <p style="color: #8b0000;"> TERMINATION</p>                    |
+
