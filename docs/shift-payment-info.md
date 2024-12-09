@@ -1,0 +1,34 @@
+# Shift & Payment Info
+
+## Shift Guidelines
+
+To go on 50/50 you have to ask for permission from Executive+ if there are more than 12 players.
+
+If there are less than 12 players you may go on 50/50 (MGT+ this does not apply to you).
+
+The amount of people on shift depends on how big the server is.
+
+Generally, we use these numbers:
+
+| Player count | People on shift                                 |
+| ------------ | ----------------------------------------------- |
+| <10          | 1                                               |
+| <20          | 2 (If mod calls flood in, another one may join) |
+| <35          | 3 (If mod calls flood in, another one may join) |
+| 40           | 4                                               |
+
+## Payment Guidelines
+
+To get paid you **MUST** get 3 hours worth of shift time.
+
+The minimum quota is 2 hours but to get paid you will have to achieve 3 hours worth of shift time.
+
+You can only go on 50/50 for half of the required 3 hours to get paid.
+
+Rest of the required 3 hour will have to be done on normal duty (sherriff team).
+
+If you are going on duty you **MUST** click your shift type, failure to do so will result as it not being counted.
+
+<p style="font-size:25px;">PLEASE DM whatisthisuniverse to collect payment</p>
+
+<img src="/shift-options.png" width="70%" style="margin-left:auto; margin-right:auto;"/>

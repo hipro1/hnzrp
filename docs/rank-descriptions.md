@@ -1,0 +1,42 @@
+---
+aside: false
+---
+
+# Rank Descriptions
+
+(OWN)
+Ownership - You are responsible to look over everybody, but not much to do. Just handle the Owner perms things.
+
+(DRT)
+Director - You are responsible to handle all the executive decisions, you are the highest official rank in the entire server.
+
+Assistant Director - You are responsible to handle all the executive decisions, you are the third highest official rank in the entire server.
+
+(Executive)
+Executive Member - You are responsible to handle all the executive decisions, you are the fourth highest official rank in the entire server and you manage MGMT team and Staff team.
+
+(MGT)
+Head of Management - You manage the management team! You do everything that management does, but you get priority in the COC and you host weekly meetings.
+
+Staff Manager - You manage staff, weekly promo's, punishments etc, theyre all yours.
+
+Community Manager - You mainly focus around the discord community and ways to grow it. But you overall also handle the community.
+
+(SS)
+Staff Supervisor - You manage staff and punishments.
+
+(ADM)
+Senior Admin - You are a Senior Admin, you are required to meet the quota and complete ban bolo's. You are at the top of the admin team.
+
+Admin - You an Admin, you are required to meet the quota and complete ban bolo's. You are nearly at the top of the admin team.
+
+Junior Admin - You are a Junior Admin, you are required to meet the quota and complete ban bolo's. You are at the bottom of the admin team, beginning your journey with a grind.
+
+(MOD)
+Senior Moderator - You are a Senior Moderator, you are required to reach your quota and moderate to the best of your skills. You are close to a rank up to admin, you have a stretch to go.
+
+Moderator - You are a Moderator, you are required to reach your quota and moderate to the best of your skills.
+
+Junior Moderator - You are a Moderator, you are required to reach your quota and moderate to the best of your skills.
+
+Trial Moderator - You are a Trial Moderator, you are required to request training as soon as possible and do ridealongs in the meantime. You moderate to the best of your skill.

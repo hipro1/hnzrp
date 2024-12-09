@@ -1,0 +1,40 @@
+---
+aside: false
+---
+
+# STS Guide
+
+```
+:h We will be starting a Shoulder to Shoulder (STS) soon. Please conclude your current role-plays and prepare for the STS.
+*(Wait for 3 minutes)
+
+:m A Shoulder to Shoulder event will be hosted shortly. Please wrap up your roleplays.
+
+:m Load all incoming!
+
+:pt 1200
+
+:kill others (repeat as necessary to ensure all participants are reset)
+
+:bring others (repeat to ensure all are present)
+
+:heal others
+
+:m The STS will take place on the yellow line. Please refrain from using tools, moving, or engaging in any actions that may disrupt the STS.
+
+:m Attention all community members: Please familiarize yourself with the following rules and guidelines. Noncompliance may result in consequences.
+
+:m Adhere to the terms of service for all platforms in use. Roblox and PRC TOS must always be followed.
+
+:m Certain roleplays are prohibited; please refer to our rules section for a complete list.
+
+:m FRP (Fail Roleplay) is not permitted, this means that all roleplay’s must be realistic.
+
+:m RDM (Random Death Match) is prohibited meaning all gun motion must be within roleplay/ must have reason.
+
+:m VDM (Vehicle Death Match) is prohibited, all crashes above 30mph must be enacted, furthermore, you must drive realistically.
+
+:m Staff impersonation is strictly prohibited, violating this will result in moderation.
+
+:h Listen to staff at all times.
+```

@@ -1,0 +1,8 @@
+> [!WARNING]
+> THIS HANDBOOK IS CONFIDENTIAL. SHARING WILL RESULT IN A STAFF BLACKLIST!
+>
+> ALWAYS COMMIT TO DEV BRANCH, NOT MAIN BRANCH
+
+Hosted by @aqxorus on Cloudflare Pages.
+
+Website/s: hnzrp.pages.dev

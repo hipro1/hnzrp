@@ -1,0 +1,46 @@
+# Welcome to the HNZRP Staff Handbook
+
+> [!WARNING]
+> THIS HANDBOOK IS CONFIDENTIAL. SHARING WILL RESULT IN A STAFF BLACKLIST!
+
+Here at Hamilton New Zealand, we expect all staff to abide by these rules with the utmost professionalism and in an orderly manner as these rules is what being staff include.
+
+## Important links
+
+- [Melonly Panel](https://melonly.xyz/panel/7159159696966815744)
+- [IA Application](https://docs.google.com/forms/d/e/1FAIpQLSeimRAWUNaL5DAH6NooHkjaD8iJm_NWxzbU79DvXKmk0U_FLg/viewform)
+- [Media Team Application](https://docs.google.com/forms/d/e/1FAIpQLScC0VSxOnhQIL9DsNu4nN34ltkP7TmD6xgE9DORmt8i7JUOVA/viewform)
+
+## Guidelines
+
+### Expectations
+
+As a staff member at Hamilton New Zealand, we hold our staff to high standards. We expect our staff members to be honest, truthful, and professional whilst representing HNZRP. We expect you to respect the members of the community, your fellow staff members and your superiors at all times. We expect you to not be scared to hand out punishments nor to ask fellow peers for help when it's needed as communication and teamwork are two essential things needed whilst on the team.
+
+### Professionalism
+
+Whilst being a staff member at Hamilton New Zealand, you are required to operate at professional standards. You are to act in a way that correctly represents our staff team to be the best staff team there is. This involves representing in the discord and in-game off and on duty.
+
+### Grammar
+
+Whilst on duty in-game as a member of staff, you are required to use appropriate grammar and punctuations at all times. It is required that the basics are implemented whilst you represent the staff team. This means try to capitalize your sentence, periods and overall correct grammar. Keep in mind this plays a part of your professionalism as a staff to be able to speak correctly.
+
+### Quota
+
+Activity is a must in the staff team. You are required to get 2 Hours of moderation time every 1 week. If you cannot fulfil the hours, you may request a Leave of Absence (LOA) Request but please follow the Leave of Absence Policy. (The week will end and start every Sunday)
+
+### Respect
+
+Whilst on our server as a whole we expect you to show respect to everyone in the server. Even if they're annoying you, then you still have to show respect if it's another staff member then just open an Internal Affairs ticket and Internal Affairs will deal with it. This applies at all times on and off duty. Act in a professional manner while apart of the Hamilton New Zealand staff team.
+
+### Four letter rule
+
+Whilst moderating on the server and using any commands that affect players, you need to make sure that you provide the first 4 letters of their roblox username. This ensures that there will be no mistakes such as :kick all.
+
+### State punishments and reasons
+
+You are required to tell users why they are being punished along with what punishment. If you are kicking someone you are required to tell them why they are being kicked along with how long they cannot join back for (30 minutes to an hour depending on the severity of the rules broken). You are required to do this with every single moderation that you do.
+
+### In-game Announcements
+
+You are required to use the in-game announcements that are provided and only those that are provided unless you are an Internal Affairs member or above. People who are an Internal affairs member of above are allowed to make professionally written in-game announcements if needed and only when needed.
