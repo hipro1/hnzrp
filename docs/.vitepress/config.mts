@@ -72,7 +72,7 @@ export default defineConfig({
     // https://simpleicons.org
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Aqxorus' },
-      { icon: 'discord', link: 'https://discord.com/users/598624275083034654' },
+      { icon: 'discord', link: 'https://discord.com/users/693965900805570633' },
     ],
   },
 });
