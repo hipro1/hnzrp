@@ -2,6 +2,6 @@
 
 Example format:
 
-Without Callsign: SMGR | Aqxorus
+Without Callsign: SMGR |TempNinjaMan
 
-With Callsign: AOS-77 | SMGR | Aqxorus
+With Callsign: SMGR | AOS-77 | TempNinjaMan
