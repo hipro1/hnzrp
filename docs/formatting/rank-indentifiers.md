@@ -1,8 +1,10 @@
-# Rank Identifiers
+# Rank Identifiers And COC
 
 Add the correct one to the beginning of your Roblox username in the discord server.
 
 Founders: F
+
+Chairman: CHM ||
 
 Directors: D || DD || AD ||
 
