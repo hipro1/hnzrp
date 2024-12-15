@@ -17,7 +17,14 @@ export default function HomePage() {
         Made with ❤️ by Aqxorus and TempNinjaMan
       </h2>
 
-      <Link href="/docs" className={buttonVariants({ variant: 'default' })}>
+      <Link
+        href="/docs"
+        className={`${buttonVariants({
+          variant: 'default',
+          size: 'lg',
+          className: 'rounded-full',
+        })} mx-auto mb-4`}
+      >
         Start
       </Link>
 
