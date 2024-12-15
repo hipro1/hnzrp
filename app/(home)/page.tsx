@@ -13,6 +13,11 @@ export default function HomePage() {
       <h2 className="mb-4 text-3xl font-normal color text-[#6b6e6e]">
         Made with ❤️ by Aqxorus and TempNinjaMan
       </h2>
+      <img
+        src="/icon.png"
+        alt="HNZRP"
+        className="w-[320px] h-[320px] mx-auto"
+      />
       <div className="flex w-full justify-center items-center">
         <Callout className="w-1/2 text-left p-6" icon="" title="Version">
           v3
