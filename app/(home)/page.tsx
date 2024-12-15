@@ -1,3 +1,4 @@
+import { buttonVariants } from '@/components/ui/button';
 import { Callout } from 'fumadocs-ui/components/callout';
 import Link from 'next/link';
 
@@ -15,6 +16,10 @@ export default function HomePage() {
       <h2 className="mb-4 text-3xl font-normal color text-[#6b6e6e]">
         Made with ❤️ by Aqxorus and TempNinjaMan
       </h2>
+
+      <Link href="/docs" className={buttonVariants({ variant: 'default' })}>
+        Start
+      </Link>
 
       <div className="my-8 relative w-[320px] h-[320px] mx-auto">
         <div className="absolute inset-0 radial-blur"></div>
