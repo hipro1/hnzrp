@@ -2,17 +2,19 @@
   "pages": [
     "---Getting Started---",
     "index",
-    "/gs/rank-descriptions",
-    "/gs/loa-guidelines",
-    "/gs/shift-payment-info",
-    "/gs/offduty-commands",
+    "/getting-started/rank-descriptions",
+    "/getting-started/loa-guidelines",
+    "/getting-started/shift-payment-info",
+    "/getting-started/offduty-commands",
     "---Guides---",
     "/guides/general",
     "/guides/h-messages",
     "/guides/sts-guide",
-    "---Formatting---",
-    "/format/rank-indentifiers",
-    "/format/discord-nickname",
-    "---Punishments---"
+    "---formatting---",
+    "/formatting/rank-indentifiers",
+    "/formatting/discord-nickname",
+    "---Punishments---",
+    "/punishments/staff",
+    "/punishments/member"
   ]
 }

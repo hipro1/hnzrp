@@ -11,7 +11,7 @@ export default {
   ],
   presets: [
     createPreset({
-      preset: 'purple',
+      preset: 'black',
     }),
   ],
 };
