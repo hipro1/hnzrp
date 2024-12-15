@@ -1,7 +1,28 @@
-docs/.vitepress/dist
+# deps
+/node_modules
 
-docs/.vitepress/cache
+# generated content
+.contentlayer
+.content-collections
+.source
 
-node_modules
+# test & build
+/coverage
+/.next/
+/out/
+/build
+*.tsbuildinfo
 
-package-lock.json
+# misc
+.DS_Store
+*.pem
+/.pnp
+.pnp.js
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# others
+.env*.local
+.vercel
+next-env.d.ts
