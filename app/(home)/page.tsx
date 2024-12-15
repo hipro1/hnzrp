@@ -1,3 +1,4 @@
+import { Callout } from 'fumadocs-ui/components/callout';
 import Link from 'next/link';
 
 export default function HomePage() {
@@ -12,16 +13,11 @@ export default function HomePage() {
       <h2 className="mb-4 text-3xl font-normal color text-[#6b6e6e]">
         Made with ❤️ by Aqxorus and TempNinjaMan
       </h2>
-      {/* <p className="text-fd-muted-foreground">
-        You can open{' '}
-        <Link
-          href="/docs"
-          className="text-fd-foreground font-semibold underline"
-        >
-          /docs
-        </Link>{' '}
-        and see the documentation.
-      </p> */}
+      <div className="flex w-full justify-center items-center">
+        <Callout className="w-1/2 text-left p-6" icon="" title="Version">
+          v3
+        </Callout>
+      </div>
     </main>
   );
 }
