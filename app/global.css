@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.Link {
+  color: #719ffd;
+}
+
+.radial-blur {
+  background: linear-gradient(-45deg, #bd34fe 50%, #47caff 50%);
+  filter: blur(44px);
+  border-radius: 50%;
+}
