@@ -1,4 +1,4 @@
-import { Building2, LibraryIcon } from 'lucide-react';
+import { Building2, Lock } from 'lucide-react';
 import Link, { type LinkProps } from 'next/link';
 import Image from 'next/image';
 import Spot from '@/public/spot.png';
@@ -39,7 +39,7 @@ export default function DocsPage(): React.ReactElement {
         </Item>
         <Item href="/docs/ia">
           <Icon>
-            <LibraryIcon className="size-full" />
+            <Lock className="size-full" />
           </Icon>
           <h2 className="mb-2 text-lg font-semibold">Internal Affairs</h2>
           <p className="text-sm text-fd-muted-foreground">MGT/IA+</p>
