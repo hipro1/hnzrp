@@ -1,0 +1,6 @@
+{
+  "title": "Internal Affairs",
+  "description": "This section contains information for Internal Affairs members.",
+  "root": true,
+  "pages": ["---Getting Started---", "index", "offduty-commands"]
+}

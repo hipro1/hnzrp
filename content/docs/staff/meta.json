@@ -1,0 +1,24 @@
+{
+  "title": "Staff",
+  "description": "This section contains information for staff members.",
+  "icon": "Building2",
+  "root": true,
+  "pages": [
+    "---Getting Started---",
+    "index",
+    "/getting-started/rank-descriptions",
+    "/getting-started/loa-guidelines",
+    "/getting-started/shift-payment-info",
+    "/getting-started/offduty-commands",
+    "---Guides---",
+    "/guides/general",
+    "/guides/h-messages",
+    "/guides/sts-guide",
+    "---Formatting---",
+    "/formatting/rank-indentifiers",
+    "/formatting/discord-nickname",
+    "---Punishments---",
+    "/punishments/staff",
+    "/punishments/member"
+  ]
+}

@@ -18,7 +18,7 @@ export default function HomePage() {
       </h2>
 
       <Link
-        href="/docs"
+        href="/doc"
         className={`${buttonVariants({
           variant: 'default',
           size: 'lg',
