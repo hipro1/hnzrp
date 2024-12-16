@@ -1,7 +1,7 @@
 {
   "title": "Staff",
   "description": "This section contains information for staff members.",
-  "icon": "Building2",
+  "icon": "Lock",
   "root": true,
   "pages": [
     "---Getting Started---",
