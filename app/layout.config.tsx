@@ -24,7 +24,7 @@ export const baseOptions: BaseLayoutProps = {
     },
     {
       text: 'Melonly Panel',
-      url: 'https://melonly.xyz/panel/7159159696966815744',
+      url: 'https://melonly.xyz/dashboard?joinCode=MVXNZA',
       active: 'nested-url',
     },
     {
