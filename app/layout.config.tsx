@@ -22,5 +22,20 @@ export const baseOptions: BaseLayoutProps = {
       url: '/docs',
       active: 'nested-url',
     },
+    {
+      text: 'Melonly Panel',
+      url: 'https://melonly.xyz/panel/7159159696966815744',
+      active: 'nested-url',
+    },
+    {
+      text: 'HNZRP Whitelisted Group',
+      url: 'https://www.roblox.com/groups/7252897/HNZRP-Whitelisted-group#!/about',
+      active: 'nested-url',
+    },
+    {
+      text: 'Credits',
+      url: '/docs/credits',
+      active: 'nested-url',
+    },
   ],
 };
