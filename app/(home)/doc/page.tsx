@@ -1,4 +1,4 @@
-import { Building2, Lock } from 'lucide-react';
+import { Gavel, Lock } from 'lucide-react';
 import Link, { type LinkProps } from 'next/link';
 import Image from 'next/image';
 import Spot from '@/public/spot.png';
@@ -32,14 +32,14 @@ export default function DocsPage(): React.ReactElement {
       <div className="mt-16 grid grid-cols-1 gap-4 text-left md:grid-cols-2">
         <Item href="/docs/staff">
           <Icon>
-            <Building2 className="size-full" />
+            <Lock className="size-full" />
           </Icon>
           <h2 className="mb-2 text-lg font-semibold">Staff</h2>
           <p className="text-sm text-fd-muted-foreground">Junior Moderator+</p>
         </Item>
         <Item href="/docs/ia">
           <Icon>
-            <Lock className="size-full" />
+            <Gavel className="size-full" />
           </Icon>
           <h2 className="mb-2 text-lg font-semibold">Internal Affairs</h2>
           <p className="text-sm text-fd-muted-foreground">MGT/IA+</p>
