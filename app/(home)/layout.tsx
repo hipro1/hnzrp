@@ -7,7 +7,12 @@ export default function Layout({
 }: {
   children: ReactNode;
 }): React.ReactElement {
-  return <HomeLayout {...baseOptions}>{children}</HomeLayout>;
+  return (
+    <HomeLayout {...baseOptions}>
+      {children}
+      <Footer />
+    </HomeLayout>
+  );
 }
 
 function Footer(): React.ReactElement {
@@ -17,7 +22,7 @@ function Footer(): React.ReactElement {
         <div>
           <p className="mb-1 text-sm font-semibold">HNZRP Staff Handbook</p>
           <p className="text-xs">
-            Built with ❤️ by{' '}
+            Made with ❤️ by{' '}
             <a
               href="https://aqxorus.me"
               rel="noreferrer noopener"
@@ -25,8 +30,8 @@ function Footer(): React.ReactElement {
               className="font-medium"
             >
               Aqxorus
-            </a>
-            and
+            </a>{' '}
+            and{' '}
             <a
               href="https://discord.com/users/693965900805570633"
               rel="noreferrer noopener"

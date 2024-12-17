@@ -1,11 +1,12 @@
 import { buttonVariants } from '@/components/ui/button';
 import { Callout } from 'fumadocs-ui/components/callout';
 import Link from 'next/link';
+import Image from 'next/image';
 
 export default function HomePage() {
   return (
     <main className="flex flex-1 flex-col justify-center text-center">
-      <h1 className="my-4 text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-200 via-blue-500 to-blue-950">
+      <h1 className="mb-4 mt-[3.25rem] text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-200 via-blue-500 to-blue-950">
         HNZRP Staff Handbook
       </h1>
 
@@ -30,7 +31,13 @@ export default function HomePage() {
 
       <div className="my-8 relative w-[320px] h-[320px] mx-auto">
         <div className="absolute inset-0 radial-blur"></div>
-        <img src="/icon.png" alt="HNZRP" className="opacity-[99.99999%]" />
+        <Image
+          src="/icon.png"
+          width={320}
+          height={320}
+          alt="HNZRP"
+          className="opacity-[99.99999%]"
+        />
       </div>
 
       <div className="flex w-full justify-center items-center">
