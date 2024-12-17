@@ -22,24 +22,18 @@ function Footer(): React.ReactElement {
         <div>
           <p className="mb-1 text-sm font-semibold">HNZRP Staff Handbook</p>
           <p className="text-xs">
-            Made with ❤️ by{' '}
-            <a
-              href="https://aqxorus.me"
-              rel="noreferrer noopener"
-              target="_blank"
-              className="font-medium"
-            >
+            © Copyright 2024-present -{' '}
+            <a href="https://aqxorus.me" className="underline">
               Aqxorus
             </a>{' '}
-            and{' '}
+            &{' '}
             <a
               href="https://discord.com/users/693965900805570633"
-              rel="noreferrer noopener"
-              target="_blank"
-              className="font-medium"
+              className="underline"
             >
               TempNinjaMan
-            </a>
+            </a>{' '}
+            - All rights reserved.
           </p>
         </div>
       </div>
