@@ -18,8 +18,8 @@ export const baseOptions: BaseLayoutProps = {
       active: 'nested-url',
     },
     {
-      text: 'Melonly Panel Invitation',
-      url: 'https://melonly.xyz/dashboard?joinCode=MVXNZA',
+      text: 'Melonly Panel',
+      url: 'https://melonly.xyz/panel/7159159696966815744',
       active: 'nested-url',
     },
     {
