@@ -22,7 +22,7 @@ function Footer(): React.ReactElement {
         <div>
           <p className="mb-1 text-sm font-semibold">HNZRP Staff Handbook</p>
           <p className="text-xs">
-            © Copyright 2024-present -{' '}
+            Copyright © 2024 - Present -{' '}
             <a href="https://aqxorus.me" className="underline">
               Aqxorus
             </a>{' '}
@@ -33,7 +33,7 @@ function Footer(): React.ReactElement {
             >
               TempNinjaMan
             </a>{' '}
-            - All rights reserved.
+            - All rights reserved
           </p>
         </div>
       </div>
