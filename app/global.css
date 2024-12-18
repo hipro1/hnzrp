@@ -2,18 +2,24 @@
 @tailwind components;
 @tailwind utilities;
 
-.radial-blur {
-  background: linear-gradient(-45deg, #bd34fe 50%, #47caff 50%);
-  filter: blur(44px);
-  border-radius: 50%;
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+.dark {
 }
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
+    /* --background: 0 0% 100%; */
     --foreground: 0 0% 3.9%;
-    --card: 0 0% 100%;
-    --card-foreground: 0 0% 3.9%;
+    /* --card: 0 0% 100%; */
+    /* --card-foreground: 0 0% 3.9%; */
     --popover: 0 0% 100%;
     --popover-foreground: 0 0% 3.9%;
     --primary: 0 0% 9%;
@@ -37,10 +43,10 @@
     --radius: 0.5rem;
   }
   .dark {
-    --background: 0 0% 3.9%;
-    --foreground: 0 0% 98%;
-    --card: 0 0% 3.9%;
-    --card-foreground: 0 0% 98%;
+    /* --background: 0 0% 3.9%; */
+    --foreground: 0 0% 90%;
+    /* --card: 0 0% 3.9%; */
+    /* --card-foreground: 0 0% 98%; */
     --popover: 0 0% 3.9%;
     --popover-foreground: 0 0% 98%;
     --primary: 0 0% 98%;
@@ -64,11 +70,8 @@
   }
 }
 
-@layer base {
-  * {
-    @apply border-border;
-  }
-  body {
-    @apply bg-background text-foreground;
-  }
+.radial-blur {
+  background: linear-gradient(-45deg, #bd34fe 50%, #47caff 50%);
+  filter: blur(44px);
+  border-radius: 50%;
 }

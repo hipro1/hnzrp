@@ -12,7 +12,7 @@ export default {
   ],
   presets: [
     createPreset({
-      preset: 'ocean',
+      preset: 'black',
     }),
   ],
   plugins: [require('tailwindcss-animate')],
