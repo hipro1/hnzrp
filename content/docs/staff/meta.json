@@ -19,6 +19,7 @@
     "/formatting/discord-nickname",
     "---Punishments---",
     "/punishments/staff",
-    "/punishments/member"
+    "/punishments/member",
+    "/punishments/activity"
   ]
 }
