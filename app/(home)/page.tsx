@@ -42,7 +42,7 @@ export default function HomePage() {
 
       <div className="flex w-full justify-center items-center">
         <Callout className="w-1/2 text-left p-6" icon="" title="Version">
-          v3
+          v3.7
         </Callout>
       </div>
     </main>
