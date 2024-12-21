@@ -12,7 +12,7 @@ export default {
   ],
   presets: [
     createPreset({
-      preset: 'black',
+      preset: 'dusk',
     }),
   ],
   plugins: [require('tailwindcss-animate')],
